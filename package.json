@@ -1,0 +1,25 @@
+{
+  "name": "antimatter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "antimatter.js",
+  "scripts": {
+    "test": "./antimatter test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunabhdas/antimatter.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Arunabh Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunabhdas/antimatter/issues"
+  },
+  "homepage": "https://github.com/arunabhdas/antimatter#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
